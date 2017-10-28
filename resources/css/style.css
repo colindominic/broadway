@@ -3,7 +3,7 @@ html {
   text-align: center;
 }
 
-.header {
+.header, .location {
   background-image: url("./resources/images/the-flatiron-building.png");
 }
 
@@ -13,6 +13,10 @@ h1 {
 
 .header nav {
   font-size: 18px;
+}
+
+/*.header, h3.location,*/ .footer {
+  color: white;
 }
 
 h2 {
@@ -27,12 +31,11 @@ p, .footer a {
   font-size: 14px;
 }
 
+.footer p {
+  font-size: 11px;
+}
+
 .footer {
   text-align: left;
   background-color: dimgray;
-
-}
-
-.footer p {
-  font-size: 11px;
 }
