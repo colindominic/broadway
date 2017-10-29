@@ -4,7 +4,7 @@ html {
 }
 
 .header, .location {
-  background-image: url("the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
